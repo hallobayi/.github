@@ -14,13 +14,13 @@ Halo Bayi Indonesia
   </a>
 </p>
 
-## WAF Site
+## Teknologi Yang Digunakan
+Berbagai Stack yang digunakan baik untuk kebutuhan Production ataupun Research and Development.
 
-1. [aaWAF](https://github.com/hallobayi/aaWAF)
-2. [uuWAF](https://github.com/hallobayi/uuWAF)
-3. [bunkerWAF](https://github.com/hallobayi/bunkerweb)
-4. [SafeLineWAF](https://github.com/hallobayi/SafeLine)
-5. [WfW00f](https://github.com/hallobayi/wafw00f)
+| Keterangan | Stack |
+| :---: | :---: |
+| WAF Tools | [aaWAF](https://github.com/hallobayi/aaWAF), [uuWAF](https://github.com/hallobayi/uuWAF), [bunkerWAF](https://github.com/hallobayi/bunkerweb), [SafeLineWAF](https://github.com/hallobayi/SafeLine), [WfW00f](https://github.com/hallobayi/wafw00f) |
+| WA Unofficial | [V1](https://github.com/hallobayi/baileys-api), [V2](https://github.com/hallobayi/wppconnect-server), [V3](https://github.com/hallobayi/wa-gateway), [V4](https://github.com/hallobayi/wwebjs-api.git) |
 
 ## Hacked File
 If You interested checkout this repo:
